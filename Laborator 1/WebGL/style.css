@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+canvas {
+  border: 1px solid black;
+  box-sizing: border-box;
+  width: 95vw;
+  margin: 0 auto;
+  aspect-ratio: 1/1;
+  display: block;
+}
