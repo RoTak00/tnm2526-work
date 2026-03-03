@@ -26,6 +26,6 @@
 
 ## Toys and other alien objects
 
-7. Vreți să testați exemple de pe [www.shadertoy.com](www.shadertoy.com)? Citiți înainte sfaturile de [aici](https://webgl2fundamentals.org/webgl/lessons/webgl-drawing-without-data.html) și [aici](https://webgl2fundamentals.org/webgl/lessons/webgl-shadertoy.html).
+7. Vreți să testați exemple de pe [www.shadertoy.com](https://www.shadertoy.com)? Citiți înainte sfaturile de [aici](https://webgl2fundamentals.org/webgl/lessons/webgl-drawing-without-data.html) și [aici](https://webgl2fundamentals.org/webgl/lessons/webgl-shadertoy.html).
 
 8. Ori poate vreți să încărcați un model creat cu blender/maya/3d studio max sau alte tooluri pentru modelare 3D? Citiți [aici](https://webgl2fundamentals.org/webgl/lessons/webgl-load-obj.html) cum.
