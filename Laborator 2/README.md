@@ -8,7 +8,7 @@
 
 1. Citiți despre cum putem construi un obiect 3D pornind de la o figură plană în tutorialul despre [grafică 3D cu proiecție ortografică](https://webgl2fundamentals.org/webgl/lessons/webgl-3d-orthographic.html). 
 
-2.  Citiți [aici](https://webgl2fundamentals.org/webgl/lessons/webgl-boilerplate.html) despre cum putem adăuga perspectivă scenei noastre, ce este o cameră și cum o putem controla: cum îi putem redimensiona frustumul prin controlarea câmpului și a planelor apropiat și îndepărtat. 
+2.  Citiți [aici](https://webgl2fundamentals.org/webgl/lessons/webgl-3d-perspective.html) despre cum putem adăuga perspectivă scenei noastre, ce este o cameră și cum o putem controla: cum îi putem redimensiona frustumul prin controlarea câmpului și a planelor apropiat și îndepărtat. 
 
 ## Camera..
 
