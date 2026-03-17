@@ -29,20 +29,20 @@ Dacă nu ați fost la curs, citiți această [scurtă introducere](http://www.pd
 
 3. Citiți despre primul tip de data flow în Pd: [control flow](www.pd-tutorial.com/english/ch02s02.html) și apoi rezolvați din exercițiile propuse în tutorial:
 
-a) Creați două melodii aleatoare care rulează simultan. 
+-  Creați două melodii aleatoare care rulează simultan. 
 
-b) Creați un patch în care două *bang-uri* selectează două intervale diferite la alegere (pornind de la exemplul cu două bang-uri/ două frecvențe).
+- Creați un patch în care două *bang-uri* selectează două intervale diferite la alegere (pornind de la exemplul cu două bang-uri/ două frecvențe).
 
-c) Creați un metronom cu ritmuri neregulate aleatorii (cu un tempo mediu ajustabil). 
+- Creați un metronom cu ritmuri neregulate aleatorii (cu un tempo mediu ajustabil). 
 
 
 ## Audio Basics
 
 4. Citiți [capitolul 3](http://www.pd-tutorial.com/english/ch03.html) despre pitch și volum și rezolvati din exercițiile propuse: 
 
-a) Creați o gamă cu sferturi de ton.
+- Creați o gamă cu sferturi de ton.
 
-b) Creați un patch în care volumul de la un input de microfon controlează pitchul unui oscilator. 
+- Creați un patch în care volumul de la un input de microfon controlează pitchul unui oscilator. 
 
 ## Extra 
 
