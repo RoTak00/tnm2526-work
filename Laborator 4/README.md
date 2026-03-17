@@ -1,4 +1,4 @@
-# Laborator 3 - Pure Data. Sound
+# Laborator 4 - Pure Data. Sound
 
 În acest laborator veți descoperi limbajul Pure Data: îl veți instala, veți scrie un program "hello world" și veți învăța despre principalele caracteristici ale limbajului. Înainte de asta, trebuie însă să vă readuceți aminte ce este sunetul (reprezentat ca undă sinusoidală) și cum definim anumite caracteristici importante ale acestuia.
 
