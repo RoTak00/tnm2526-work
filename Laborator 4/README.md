@@ -27,7 +27,7 @@ Dacă nu ați fost la curs, citiți această [scurtă introducere](http://www.pd
 
 3. Urmați pașii din [capitolul doi](http://www.pd-tutorial.com/english/ch02.html) al tutorialului pentru a scrie primul patch "hello world!". Ce se întâmplă dacă în entitatea de tip mesaj în care am scris "1" înlocuim valoarea cu "0.5"?
 
-3. Citiți despre primul tip de data flow în Pd: [control flow](www.pd-tutorial.com/english/ch02s02.html) și apoi rezolvați din exercițiile propuse în tutorial:
+3. Citiți despre primul tip de data flow în Pd: [control flow](http://www.pd-tutorial.com/english/ch02s02.html) și apoi rezolvați din exercițiile propuse în tutorial:
 
 -  Creați două melodii aleatoare care rulează simultan. 
 
