@@ -46,4 +46,4 @@ Dacă nu ați fost la curs, citiți această [scurtă introducere](http://www.pd
 
 ## Extra 
 
-Dacă ați ajuns aici, citiți despre [additive](http://www.pd-tutorial.com/english/ch03s02.html) și [substractive synthesis](http://www.pd-tutorial.com/english/ch03s03.html).  
+Dacă ați ajuns aici, citiți despre [additive](http://www.pd-tutorial.com/english/ch03s02.html) și [substractive sound synthesis](http://www.pd-tutorial.com/english/ch03s03.html).  
