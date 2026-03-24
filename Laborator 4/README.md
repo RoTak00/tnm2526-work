@@ -43,7 +43,3 @@ Dacă nu ați fost la curs, citiți această [scurtă introducere](http://www.pd
 - Creați o gamă cu sferturi de ton.
 
 - Creați un patch în care volumul de la un input de microfon controlează pitchul unui oscilator. 
-
-## Extra 
-
-Dacă ați ajuns aici, citiți despre [additive](http://www.pd-tutorial.com/english/ch03s02.html) și [substractive sound synthesis](http://www.pd-tutorial.com/english/ch03s03.html).  
