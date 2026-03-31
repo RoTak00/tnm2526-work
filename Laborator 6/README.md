@@ -14,7 +14,7 @@
 
 2. There is life beyond the sinewave!
 
-- Citiți despre cum putem crea waves cu diferite forme (sawtooth, triangle, square, pulse) în [capitolul 3.5](www.pd-tutorial.com/english/ch03s05.html). 
+- Citiți despre cum putem crea waves cu diferite forme (sawtooth, triangle, square, pulse) în [capitolul 3.5](http://www.pd-tutorial.com/english/ch03s05.html). 
 
 - Citiți apoi despre funcții de transfer și wave stealing. 
 
