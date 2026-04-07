@@ -7,7 +7,7 @@
 1. În laboratorul trecut ați învățat despre transformata Fourier și cum putem face [analiză Fourier în Pd](http://www.pd-tutorial.com/english/ch03s08.html). Citiți în continuare despre aplicații ale transformatei Fourier: [filtre](http://www.pd-tutorial.com/english/ch03s08.html#id432343), [compresoare](http://www.pd-tutorial.com/english/ch03s08.html#id432343) și [tunere](http://www.pd-tutorial.com/english/ch03s08.html#id432668). Jucați-vă cu pitch follower-ul din 3.8.3.4: de exemplu, puteți adăuga un delay, reverb, ori o variație armonică – go wild.
 
 #### extra 
-Puteți citi mai multe despre ferestre Hamming și cum le folosim cu FFT [aici](https://www.numberanalytics.com/blog/hanning-hamming-blackman-windows-guide). 
+Puteți citi mai multe despre ferestre Hanning și cum le folosim cu FFT [aici](https://www.numberanalytics.com/blog/hanning-hamming-blackman-windows-guide). 
 
 ## off with their head!
 
