@@ -1,4 +1,4 @@
-# Laborator 6 - Pure Data#4 
+# Laborator 7 - Pure Data#4 
 
 În acest laborator veți învăța despre aplicații ale transformatei Fourier (filtre, compresoare), metode de corecție a amplitudinii, și cum putem crea patchuri cu elemente vizuale.  
 
