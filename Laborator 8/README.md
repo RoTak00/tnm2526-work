@@ -20,7 +20,7 @@
 
 ## advanced: camera & controllers 
 
-6.  Exemplul nostru e (cam) static. [Cum mișcăm camera? Există o cameră?](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API/Cameras). Și cum ne mișcăm în XR? Puteți citi [aici](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API/Movement_and_motion) un exemplu despre cum utilizatorul se poate mișca folosind un headset ori tastatura și/sau mouse-ul. De asemenea, puteți vedea în capitolele [7](https://beprosto.github.io/webxr-tutorial/tutorial7) și [8](https://beprosto.github.io/webxr-tutorial/tutorial8) din tutorial cum putem folosi controllerele unui headset (pentru a testa codul, aveți nevoie de un emulator – [chrome](https://chromewebstore.google.com/detail/immersive-web-emulator/cgffilbpcibhmcfbgggfhfolhkfbhmik), [firefox](https://addons.mozilla.org/en-US/firefox/addon/webxr-api-emulator/)). 
+6.  Exemplul nostru e (cam) static. [Cum mișcăm camera? Există o cameră?](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API/Cameras) Și cum ne mișcăm în XR? Puteți citi [aici](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API/Movement_and_motion) un exemplu despre cum utilizatorul se poate mișca folosind un headset ori tastatura și/sau mouse-ul. De asemenea, puteți vedea în capitolele [7](https://beprosto.github.io/webxr-tutorial/tutorial7) și [8](https://beprosto.github.io/webxr-tutorial/tutorial8) din tutorial cum putem folosi controllerele unui headset (pentru a testa codul, aveți nevoie de un emulator – [chrome](https://chromewebstore.google.com/detail/immersive-web-emulator/cgffilbpcibhmcfbgggfhfolhkfbhmik), [firefox](https://addons.mozilla.org/en-US/firefox/addon/webxr-api-emulator/)). 
 
 ## extra: sunet 3D
 
